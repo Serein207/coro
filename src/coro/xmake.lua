@@ -1,0 +1,5 @@
+target("coro")
+    set_kind("static")
+    add_files("**.cpp")
+    add_packages("liburing")
+    add_includedirs(path.join(os.projectdir(), "include"), {public = true})

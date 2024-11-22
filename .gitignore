@@ -1,0 +1,18 @@
+# Xmake cache
+.xmake/
+build/
+
+# clangd cache
+.cache/
+
+# IDE settings
+.vscode
+.idea
+
+# MacOS Cache
+.DS_Store
+
+# Others
+benchmarks/
+
+
