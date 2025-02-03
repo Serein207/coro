@@ -4,7 +4,7 @@ set_version("0.1.0")
 
 add_rules("mode.debug", "mode.release")
 
-set_languages("c++20")
+set_languages("c++23")
 
 set_allowedplats("linux")
 
@@ -80,4 +80,3 @@ includes("src/example", "src/coro")
 --
 -- @endcode
 --
-

@@ -1,3 +1,4 @@
 target("example")
-    add_files("*.cpp")
-    add_deps("coro")
+   add_files("*.cpp")
+   add_deps("coro")
+

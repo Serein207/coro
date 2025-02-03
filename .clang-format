@@ -109,7 +109,7 @@ SortIncludes: CaseSensitive
 IncludeBlocks: Merge
 SortUsingDeclarations: LexicographicNumeric
 DerivePointerAlignment: false
-PointerAlignment: Right
+PointerAlignment: Left
 ReferenceAlignment: Pointer
 SpaceAroundPointerQualifiers: After
 ReflowComments: true
